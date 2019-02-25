@@ -1,0 +1,5 @@
+.vscode/
+__pycache__
+config.py
+krclever_log.log
+
